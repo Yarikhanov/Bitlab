@@ -1,0 +1,6 @@
+package interface2;
+
+public interface Workers {
+    String getWorkerData();
+    int getSalary();
+}
